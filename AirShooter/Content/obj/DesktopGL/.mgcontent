@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/BORIS/прогтайм/AirShooter/AirShooter/Content/bgLayer1.png</File>
+    <File>D:/BORIS/прогтайм/AirShooter/AirShooter/Content/bgLayer2.png</File>
+    <File>D:/BORIS/прогтайм/AirShooter/AirShooter/Content/endMenu.png</File>
+    <File>D:/BORIS/прогтайм/AirShooter/AirShooter/Content/explosion.png</File>
+    <File>D:/BORIS/прогтайм/AirShooter/AirShooter/Content/gameFont.spritefont</File>
+    <File>D:/BORIS/прогтайм/AirShooter/AirShooter/Content/laser.png</File>
+    <File>D:/BORIS/прогтайм/AirShooter/AirShooter/Content/mainbackground.png</File>
+    <File>D:/BORIS/прогтайм/AirShooter/AirShooter/Content/mainMenu.png</File>
+    <File>D:/BORIS/прогтайм/AirShooter/AirShooter/Content/mine.png</File>
+    <File>D:/BORIS/прогтайм/AirShooter/AirShooter/Content/mineAnimation.png</File>
+    <File>D:/BORIS/прогтайм/AirShooter/AirShooter/Content/player.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

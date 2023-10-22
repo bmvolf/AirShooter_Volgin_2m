@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/BORIS/прогтайм/AirShooter/AirShooter/Content/bgLayer1.png","D:/BORIS/прогтайм/AirShooter/AirShooter/Content/bin/DesktopGL/bgLayer1.xnb","TextureProcessor","Texture2DContent",218274,1536085,0,2151514
+"D:/BORIS/прогтайм/AirShooter/AirShooter/Content/bgLayer2.png","D:/BORIS/прогтайм/AirShooter/AirShooter/Content/bin/DesktopGL/bgLayer2.xnb","TextureProcessor","Texture2DContent",433043,1536085,0,0808424
+"D:/BORIS/прогтайм/AirShooter/AirShooter/Content/endMenu.png","D:/BORIS/прогтайм/AirShooter/AirShooter/Content/bin/DesktopGL/endMenu.xnb","TextureProcessor","Texture2DContent",470692,1536085,0,0632682
+"D:/BORIS/прогтайм/AirShooter/AirShooter/Content/explosion.png","D:/BORIS/прогтайм/AirShooter/AirShooter/Content/bin/DesktopGL/explosion.xnb","TextureProcessor","Texture2DContent",253361,858757,0,0494532
+"D:/BORIS/прогтайм/AirShooter/AirShooter/Content/gameFont.spritefont","D:/BORIS/прогтайм/AirShooter/AirShooter/Content/bin/DesktopGL/gameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2069,70687,0,1817213
+"D:/BORIS/прогтайм/AirShooter/AirShooter/Content/laser.png","D:/BORIS/прогтайм/AirShooter/AirShooter/Content/bin/DesktopGL/laser.xnb","TextureProcessor","Texture2DContent",1612,3029,0,002408
+"D:/BORIS/прогтайм/AirShooter/AirShooter/Content/mainbackground.png","D:/BORIS/прогтайм/AirShooter/AirShooter/Content/bin/DesktopGL/mainbackground.xnb","TextureProcessor","Texture2DContent",206786,1536085,0,0609376
+"D:/BORIS/прогтайм/AirShooter/AirShooter/Content/mainMenu.png","D:/BORIS/прогтайм/AirShooter/AirShooter/Content/bin/DesktopGL/mainMenu.xnb","TextureProcessor","Texture2DContent",584741,1536085,0,0847597
+"D:/BORIS/прогтайм/AirShooter/AirShooter/Content/mine.png","D:/BORIS/прогтайм/AirShooter/AirShooter/Content/bin/DesktopGL/mine.xnb","TextureProcessor","Texture2DContent",7227,11553,0,0046425
+"D:/BORIS/прогтайм/AirShooter/AirShooter/Content/mineAnimation.png","D:/BORIS/прогтайм/AirShooter/AirShooter/Content/bin/DesktopGL/mineAnimation.xnb","TextureProcessor","Texture2DContent",20028,91829,0,0070298
+"D:/BORIS/прогтайм/AirShooter/AirShooter/Content/player.png","D:/BORIS/прогтайм/AirShooter/AirShooter/Content/bin/DesktopGL/player.xnb","TextureProcessor","Texture2DContent",15718,32101,0,0053966
